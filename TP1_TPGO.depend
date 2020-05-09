@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1572523556 source:c:\users\client\documents\tpgo\tp1_tpgo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572633487 source:c:\users\mas\desktop\tp_tpgo_v2\tp1_tpgo - copie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572633487 source:c:\users\client\downloads\tp1_tpgo_reffad_mehemel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
